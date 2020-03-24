@@ -166,6 +166,7 @@
 		<item href="text/chapter-78.xhtml" id="chapter-78.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-79.xhtml" id="chapter-79.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/prefatory.xhtml" id="prefatory.xhtml" media-type="application/xhtml+xml"/>
@@ -259,6 +260,7 @@
 		<itemref idref="appendix-a.xhtml"/>
 		<itemref idref="appendix-b.xhtml"/>
 		<itemref idref="appendix-c.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
