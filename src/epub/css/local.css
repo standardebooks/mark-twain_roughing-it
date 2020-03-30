@@ -24,3 +24,9 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
