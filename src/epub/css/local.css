@@ -34,3 +34,16 @@ header{
 span.small-font{
 	font-size: .75em;
 }
+
+footer p.multiple-signatures{
+	align-items: flex-end;
+	display: flex;
+	flex-direction: column;
+	font-variant: small-caps;
+	text-align: left;
+}
+
+footer div.two-column-signatures{
+	flex: 1;
+	display: flex;
+}
