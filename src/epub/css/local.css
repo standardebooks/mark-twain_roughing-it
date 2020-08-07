@@ -66,6 +66,54 @@ footer p.multiple-signatures{
 	text-align: left;
 }
 
-p.center{
+.center{
 	text-align: center;
+}
+
+.center-vertically{
+	vertical-align: middle;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+figure{
+	break: avoid;
+}
+
+div.rotated-container{
+	display: flex;
+	flex-direction: row;
+}
+
+p.rotate-clockwise{
+	white-space: nowrap;
+	text-align: center;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+}
+
+p.rotate-counterclockwise{
+	white-space: nowrap;
+	text-align: center;
+	writing-mode: vertical-lr;
+}
+
+div.hearse-container{
+	display: flex; 
+	flex: 1; 
+	align-items: center; 
+	justify-content: center;
 }
