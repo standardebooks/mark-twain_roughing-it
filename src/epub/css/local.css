@@ -117,3 +117,12 @@ div.hearse-container{
 	align-items: center; 
 	justify-content: center;
 }
+
+div.points-container{
+	display: flex; 
+}
+
+p.point{
+	flex: 1;
+	text-align: center;
+}
