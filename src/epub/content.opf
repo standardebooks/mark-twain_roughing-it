@@ -43,8 +43,12 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<dc:description id="description">Mark Twain’s semiautobiographical account of his travel across the United States.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			<p>When Orion Clemens is appointed Secretary of the Nevada Territory his brother Samuel Clemens, better known by his pen name <a href="https://standardebooks.org/ebooks/mark-twain">Mark Twain</a>, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Navada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.</p>
+			<p>In <i epub:type="se:name.publication.book">Roughing It</i> Mark Twain combines the beautiful descriptions of the west’s idyllic landscape with his now patented sense of humor; he joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.</p>
+			<p><i epub:type="se:name.publication.book">Roughing It</i> was written as a prequel to his earlier travelogue <i epub:type="se:name.publication.book">The Innocents Abroad</i>.</p>
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3177</dc:source>
 		<dc:source>https://archive.org/details/roughingit00twaiuoft</dc:source>
@@ -59,10 +63,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mark_Twain</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021164</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
+		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50011230.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
