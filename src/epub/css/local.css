@@ -20,10 +20,6 @@
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
-
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
@@ -68,19 +64,6 @@ footer p.multiple-signatures{
 
 .center{
 	text-align: center;
-}
-
-.center-vertically{
-	vertical-align: middle;
-}
-
-[epub|type~="z3998:letter"] header{
-	text-align: right;
-}
-
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
-	text-indent: 0;
 }
 
 [epub|type~="z3998:sender"],
@@ -129,4 +112,8 @@ p.point{
 
 p.right-align{
 	text-align: right;
+}
+
+abbr.era{
+	font-variant: all-small-caps;
 }
