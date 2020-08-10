@@ -45,9 +45,9 @@
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Mark Twain’s semiautobiographical account of his travel across the United States.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>When Orion Clemens is appointed Secretary of the Nevada Territory his brother Samuel Clemens, better known by his pen name <a href="https://standardebooks.org/ebooks/mark-twain">Mark Twain</a>, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Navada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.</p>
-			<p>In <i epub:type="se:name.publication.book">Roughing It</i> Mark Twain combines the beautiful descriptions of the west’s idyllic landscape with his now patented sense of humor; he joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.</p>
-			<p><i epub:type="se:name.publication.book">Roughing It</i> was written as a prequel to his earlier travelogue <i epub:type="se:name.publication.book">The Innocents Abroad</i>.</p>
+			&lt;p&gt;When Orion Clemens is appointed Secretary of the Nevada Territory his brother Samuel Clemens, better known by his pen name &lt;a href="https://standardebooks.org/ebooks/mark-twain"&gt;Mark Twain&lt;/a&gt;, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Navada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Roughing It&lt;/i&gt; Mark Twain combines the beautiful descriptions of the west’s idyllic landscape with his now patented sense of humor; he joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Roughing It&lt;/i&gt; was written as a prequel to his earlier travelogue &lt;i&gt;The Innocents Abroad&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3177</dc:source>
