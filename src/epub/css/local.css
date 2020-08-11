@@ -80,7 +80,12 @@ figure{
 	text-align: center; 
 }
 
+#chapter-68 figure p{ 
+	text-indent: 0;
+}
+
 #chapter-68 figure > div{
+	min-height: 14em;
 	display: flex;
 	flex-direction: row;
 }
