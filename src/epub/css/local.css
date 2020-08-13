@@ -59,9 +59,8 @@ span.small-font{
 	justify-content: flex-end;
 }
 
-@media (max-width: 30em){
+@media (max-width: 40em){
 	#chapter-16 footer{
-		display: flex;
 		flex-direction: column;
 		align-items: flex-end;
 	}
