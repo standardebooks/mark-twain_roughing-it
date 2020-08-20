@@ -146,6 +146,7 @@ figure{
 
 p.right-align{
 	text-align: right;
+	font-variant: normal;
 }
 
 abbr.era{
