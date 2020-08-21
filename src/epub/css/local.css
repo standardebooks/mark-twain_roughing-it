@@ -135,11 +135,6 @@ figure{
 	}
 }
 
-p.right-align{
-	text-align: right;
-	font-variant: normal;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
@@ -166,7 +161,7 @@ abbr.era{
 	margin-right: 0;
 }
 
-#appendix-c blockquote header:first-child > p{
+#appendix-c blockquote header:first-child > p:first-child{
 	text-align: right;
 	font-variant: normal;
 }
