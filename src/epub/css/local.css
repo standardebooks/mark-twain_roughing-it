@@ -160,3 +160,13 @@ abbr.era{
 	text-indent: 0;
 	text-align: center;
 }
+
+#appendix-c blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#appendix-c blockquote header:first-child > p{
+	text-align: right;
+	font-variant: normal;
+}
