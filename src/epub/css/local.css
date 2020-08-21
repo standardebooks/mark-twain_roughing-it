@@ -78,10 +78,6 @@ span.small-font{
 	font-variant: small-caps;
 }
 
-.center{
-	text-align: center;
-}
-
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"]{
@@ -150,4 +146,21 @@ p.right-align{
 
 abbr.era{
 	font-variant: all-small-caps;
+}
+
+#chapter-65 blockquote{
+	text-align: center;
+}
+
+#chapter-78 blockquote{
+	text-align: center;
+}
+
+#chapter-70 blockquote:last-of-type > p:first-child{
+	text-align: center;
+}
+
+#chapter-71 blockquote > p{
+	text-indent: 0;
+	text-align: center;
 }
