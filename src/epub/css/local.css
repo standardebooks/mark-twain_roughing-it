@@ -130,8 +130,7 @@ figure{
 }
 
 #chapter-77 figure > span{
-	text-indent: 0;
-	margin: 0.4em;
+	margin: 0.5em;
 }
 
 @supports (display: flex){
