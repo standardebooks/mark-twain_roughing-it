@@ -169,3 +169,8 @@ abbr.era{
 #chapter-79 p:nth-last-child(2){
 	text-align: center;
 }
+
+#chapter-53 blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
