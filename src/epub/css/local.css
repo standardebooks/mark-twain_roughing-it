@@ -165,3 +165,7 @@ abbr.era{
 	text-align: right;
 	font-variant: normal;
 }
+
+#chapter-79 p:nth-last-child(2){
+	text-align: center;
+}
