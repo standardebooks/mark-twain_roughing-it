@@ -50,28 +50,6 @@ header{
 	text-align: center;
 }
 
-/* #chapter-16 footer{
-	display: flex;
-	justify-content: flex-end;
-}
-
-@media(max-width: 30em){
-	#chapter-16 footer{
-		flex-direction: column;
-		align-items: flex-end;
-	}
-}
-#chapter-16 footer > div{
-	display: flex;
-	flex-direction: column;
-	width: 9em;
-}
-
-#chapter-16 footer > div > p{
-	text-indent: 0;
-	text-align: left;
-	font-variant: small-caps;
-} */
 #chapter-16 blockquote:nth-of-type(2) > footer{
 	display: grid;
 	grid-template-columns: auto;
@@ -90,6 +68,13 @@ header{
 	text-align: left;
 }
 
+/* @media(max-width: 50em){
+	#chapter-16 blockquote:nth-of-type(3) > footer{
+		display: grid;
+		grid-template-columns: auto;
+		justify-items: end;
+	}
+} */
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"]{
