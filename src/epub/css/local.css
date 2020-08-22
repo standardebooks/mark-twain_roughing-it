@@ -55,13 +55,12 @@ header{
 	justify-content: flex-end;
 }
 
-/*@media (max-width: 30em){
+/* @media(max-width: 30em){
 	#chapter-16 footer{
 		flex-direction: column;
 		align-items: flex-end;
 	}
-}*/
-
+} */
 #chapter-16 footer > div{
 	display: flex;
 	flex-direction: column;
@@ -84,11 +83,11 @@ figure{
 	break: avoid;
 }
 
-#chapter-68 figure{ 
-	text-align: center; 
+#chapter-68 figure{
+	text-align: center;
 }
 
-#chapter-68 figure p{ 
+#chapter-68 figure p{
 	text-indent: 0;
 }
 
@@ -125,7 +124,7 @@ figure{
 	margin: 0.5em;
 }
 
-@supports (display: flex){
+@supports(display: flex){
 	#chapter-77 figure{
 		display: flex;
 	}
