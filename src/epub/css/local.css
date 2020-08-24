@@ -50,15 +50,9 @@ header{
 	text-align: center;
 }
 
-#chapter-16 blockquote:nth-of-type(2) > footer{
+#chapter-16 blockquote > footer{
 	display: grid;
 	grid-template-columns: auto;
-	justify-items: end;
-}
-
-#chapter-16 blockquote:nth-of-type(3) > footer{
-	display: grid;
-	grid-template-columns: auto auto;
 	justify-items: end;
 }
 
@@ -68,13 +62,13 @@ header{
 	text-align: left;
 }
 
-@media(max-width: 30em){
+@media(min-width: 30em){
 	#chapter-16 blockquote:nth-of-type(3) > footer{
 		display: grid;
-		grid-template-columns: auto;
+		grid-template-columns: auto auto;
 		justify-items: end;
 	}
-} 
+}
 
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
