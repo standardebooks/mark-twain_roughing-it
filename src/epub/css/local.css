@@ -65,8 +65,9 @@ header{
 @media(min-width: 30em){
 	#chapter-16 blockquote:nth-of-type(3) > footer{
 		display: grid;
-		grid-template-columns: auto auto;
+		grid-template-columns: 1fr auto;
 		justify-items: end;
+		grid-column-gap: 1em;
 	}
 }
 
