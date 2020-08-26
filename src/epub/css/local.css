@@ -50,25 +50,15 @@ header{
 	text-align: center;
 }
 
-#chapter-16 blockquote > footer{
-	display: grid;
-	grid-template-columns: auto;
-	justify-items: end;
-}
-
 #chapter-16 blockquote > footer > p{
-	width: 8em;
 	text-indent: 0;
-	text-align: left;
 }
 
-@media(min-width: 30em){
-	#chapter-16 blockquote:nth-of-type(3) > footer{
-		display: grid;
-		grid-template-columns: 1fr auto;
-		grid-column-gap: 1em;
-		justify-items: end;
-	}
+#chapter-16 blockquote:nth-of-type(3) > footer{
+	display: grid;
+	grid-template-columns: 1fr auto;
+	grid-column-gap: 1em;
+	justify-items: end;
 }
 
 [epub|type~="z3998:sender"],
