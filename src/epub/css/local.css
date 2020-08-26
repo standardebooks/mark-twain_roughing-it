@@ -57,7 +57,7 @@ header{
 }
 
 #chapter-16 blockquote > footer > p{
-	width: 9em;
+	width: 8em;
 	text-indent: 0;
 	text-align: left;
 }
@@ -66,8 +66,8 @@ header{
 	#chapter-16 blockquote:nth-of-type(3) > footer{
 		display: grid;
 		grid-template-columns: 1fr auto;
-		justify-items: end;
 		grid-column-gap: 1em;
+		justify-items: end;
 	}
 }
 
