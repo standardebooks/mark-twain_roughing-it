@@ -143,7 +143,7 @@ abbr.era{
 	margin-right: 0;
 }
 
-#appendix-c blockquote header:first-child > p:first-child{
+#appendix-c blockquote > div:first-child header:first-child > p:first-child{
 	text-align: right;
 	font-variant: normal;
 }
