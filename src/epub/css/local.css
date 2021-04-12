@@ -63,10 +63,8 @@ header{
 }
 
 figure{
-	break: avoid;
-}
-
-#chapter-68 figure{
+	break-inside: avoid;
+	margin: 1em auto;
 	text-align: center;
 }
 
@@ -97,10 +95,6 @@ figure{
 	flex: 1;
 	align-items: center;
 	justify-content: center;
-}
-
-#chapter-77 figure{
-	text-align: center;
 }
 
 #chapter-77 figure > span{
