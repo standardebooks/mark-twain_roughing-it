@@ -59,7 +59,6 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_roughing-it</meta>
 		<dc:creator id="author">Mark Twain</dc:creator>
 		<meta property="file-as" refines="#author">Twain, Mark</meta>
-		<meta property="se:name.person.full-name" refines="#author">Samuel Langhorne Clemens</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mark_Twain</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021164</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
