@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3177</dc:source>
 		<dc:source>https://archive.org/details/acv6910.0001.001.umich.edu</dc:source>
 		<dc:source>https://archive.org/details/acv6910.0001.002.umich.edu</dc:source>
-		<meta property="se:word-count">165627</meta>
+		<meta property="se:word-count">165251</meta>
 		<meta property="se:reading-ease.flesch">64.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Roughing_It</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_roughing-it</meta>
