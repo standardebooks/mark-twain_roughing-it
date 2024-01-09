@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="chapter-15.xhtml">
-		<ignore>
-			<code>t-021</code>
-			<reason>The "in" is not a reference to inches.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
