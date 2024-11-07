@@ -98,7 +98,7 @@ figure{
 }
 
 #chapter-77 figure > span{
-	margin: 0.5em;
+	margin: .5em;
 }
 
 @supports(display: flex){
