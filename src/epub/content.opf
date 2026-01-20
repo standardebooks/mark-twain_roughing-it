@@ -55,7 +55,7 @@
 		<dc:source>https://archive.org/details/acv6910.0001.001.umich.edu</dc:source>
 		<dc:source>https://archive.org/details/acv6910.0001.002.umich.edu</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.261234</dc:source>
-		<meta property="se:word-count">165249</meta>
+		<meta property="se:word-count">164102</meta>
 		<meta property="se:reading-ease.flesch">64.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Roughing_It</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_roughing-it</meta>
