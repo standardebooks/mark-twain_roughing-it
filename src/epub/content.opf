@@ -45,7 +45,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>Mark Twain’s semiautobiographical account of his travel across the United States.</dc:abstract>
+		<meta property="schema:abstract">Mark Twain’s semiautobiographical account of his travel across the United States.</meta>
 		<dc:description>
 			&lt;p&gt;When Orion Clemens is appointed Secretary of the Nevada Territory, his brother Samuel Clemens, better known by his pen name &lt;a href="https://standardebooks.org/ebooks/mark-twain"&gt;Mark Twain&lt;/a&gt;, joins him on his journey west. Together with their all-important six pounds of Unabridged Dictionary they make their way to Nevada in a six-horsed mail coach and are, of course, derailed by all sorts of problems.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;Roughing It&lt;/i&gt; Twain combines the beautiful descriptions of the West’s idyllic landscape with his now-patented sense of humor. He joins the silver and gold mining scramble, begins his career as a writer working for different newspapers and journals, visits the Mormons of Salt Lake City, and even makes his way to Hawaii, then still known as the Sandwich Islands.&lt;/p&gt;
