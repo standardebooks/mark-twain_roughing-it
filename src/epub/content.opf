@@ -31,10 +31,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Roughing It</dc:title>
 		<meta property="file-as" refines="#title">Roughing It</meta>
-		<dc:subject id="subject-1">West (U.S.) -- Description and travel</dc:subject>
-		<dc:subject id="subject-2">Twain, Mark, 1835-1910 -- Travel -- West (U.S.)</dc:subject>
-		<dc:subject id="subject-3">Authors, American -- Homes and haunts -- West (U.S.)</dc:subject>
-		<dc:subject id="subject-4">West (U.S.) -- Intellectual life -- 19th century</dc:subject>
+		<dc:subject id="subject-1">West (U.S.)--Description and travel</dc:subject>
+		<dc:subject id="subject-2">Twain, Mark, 1835-1910--Travel--West (U.S.)</dc:subject>
+		<dc:subject id="subject-3">Authors, American--Homes and haunts--West (U.S.)</dc:subject>
+		<dc:subject id="subject-4">West (U.S.)--Intellectual life--19th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85146142</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
